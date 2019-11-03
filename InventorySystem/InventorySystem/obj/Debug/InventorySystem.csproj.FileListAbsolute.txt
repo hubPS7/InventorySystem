@@ -1,0 +1,6 @@
+D:\Pankaj Backup\Desktop\Imp Folders\Development\Development 2013\Quater 3\InventorySystem\InventorySystem\bin\InventorySystem.dll
+D:\Pankaj Backup\Desktop\Imp Folders\Development\Development 2013\Quater 3\InventorySystem\InventorySystem\bin\InventorySystem.pdb
+D:\Pankaj Backup\Desktop\Imp Folders\Development\Development 2013\Quater 3\InventorySystem\InventorySystem\obj\Debug\ResolveAssemblyReference.cache
+D:\Pankaj Backup\Desktop\Imp Folders\Development\Development 2013\Quater 3\InventorySystem\InventorySystem\obj\Debug\InventorySystem.dll
+D:\Pankaj Backup\Desktop\Imp Folders\Development\Development 2013\Quater 3\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
+D:\Pankaj Backup\Desktop\Imp Folders\Development\Development 2013\Quater 3\InventorySystem\InventorySystem\bin\AjaxControlToolkit.dll

@@ -1,0 +1,45 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="InventorySystem.SiteMaster" %>
+
+<%@ Register src="UserControl/MenuControl.ascx" tagname="MenuControl" tagprefix="uc1" %>
+
+<%--<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">--%>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form runat="server">
+       <asp:ScriptManager ID="ScriptManager1" runat="server">
+   </asp:ScriptManager>
+    <div class="page">
+        <div class="header">
+            <div class="title">
+                <h1>
+             <%--       <asp:Image ID="Image1" runat="server" Height="8%" 
+                        ImageUrl="~/images/Headerimages/Hibernia_One_Logo.png" />--%>
+                    Inventory System
+                </h1>
+            </div>
+            <div class="loginDisplay">
+               
+            </div>
+            <div class="clear hideSkiplink">
+                <uc1:MenuControl ID="MenuControl1" runat="server" />
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+        
+    </div>
+    </form>
+</body>
+</html>

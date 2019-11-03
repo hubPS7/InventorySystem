@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\Pankaj Backup\Desktop\Imp Folders\Development\Development 2013\Quater 3\InventorySystem\Local PC Published" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Styles/StyleSheet1.css" publishTime="10/29/2013 15:15:42" />
+    <file relUrl="Global.asax" publishTime="10/25/2013 15:27:52" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="10/25/2013 15:27:52" />
+    <file relUrl="Site.Master" publishTime="11/11/2013 15:39:22" />
+    <file relUrl="Styles/Site.css" publishTime="11/11/2013 12:13:06" />
+    <file relUrl="images/paneldiv/Background.jpg" publishTime="10/28/2013 18:18:14" />
+    <file relUrl="ProductList.aspx" publishTime="10/28/2013 14:41:41" />
+    <file relUrl="About.aspx" publishTime="10/25/2013 15:27:52" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="10/25/2013 15:27:52" />
+    <file relUrl="WebForm1.aspx" publishTime="10/29/2013 15:16:58" />
+    <file relUrl="ClientList.aspx" publishTime="11/07/2013 19:34:44" />
+    <file relUrl="UserControl/Warehouse.ascx" publishTime="11/11/2013 12:38:30" />
+    <file relUrl="Account/Web.config" publishTime="10/25/2013 15:27:52" />
+    <file relUrl="Account/Register.aspx" publishTime="10/25/2013 15:27:52" />
+    <file relUrl="Account/Login.aspx" publishTime="10/25/2013 15:27:52" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="10/25/2013 15:27:52" />
+    <file relUrl="bin/AjaxControlToolkit.dll" publishTime="11/16/2011 14:21:58" />
+    <file relUrl="UserControl/Client.ascx" publishTime="11/11/2013 19:09:19" />
+    <file relUrl="UserControl/Stock.ascx" publishTime="11/18/2013 15:45:05" />
+    <file relUrl="UserControl/ErrorPage.ascx" publishTime="11/08/2013 12:35:20" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="10/25/2013 15:27:52" />
+    <file relUrl="bin/InventorySystem.dll" publishTime="11/19/2013 17:17:59" />
+    <file relUrl="images/gridimages/ALLMTGS.gif" publishTime="11/11/2013 12:19:05" />
+    <file relUrl="UserControl/MenuControl.ascx" publishTime="11/07/2013 19:33:24" />
+    <file relUrl="WarehouseList.aspx" publishTime="10/29/2013 17:37:23" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="10/25/2013 15:27:52" />
+    <file relUrl="images/gridimages/actionseditpage.gif" publishTime="11/11/2013 12:19:05" />
+    <file relUrl="Web.config" publishTime="11/19/2013 17:30:48" />
+    <file relUrl="ErrorPages/ErrorPage.aspx" publishTime="11/08/2013 12:45:58" />
+    <file relUrl="images/Headerimages/Hibernia_One_Logo.png" publishTime="11/11/2013 12:33:39" />
+    <file relUrl="AddStockDetails.aspx" publishTime="11/08/2013 13:48:40" />
+    <file relUrl="bin/InventorySystem.pdb" publishTime="11/19/2013 17:17:59" />
+    <file relUrl="images/gridimages/mewa_errorb.gif" publishTime="11/11/2013 12:19:05" />
+    <file relUrl="UserControl/Product.ascx" publishTime="11/11/2013 12:36:46" />
+  </publishProfile>
+</publishData>
